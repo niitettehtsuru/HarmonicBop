@@ -1,4 +1,4 @@
-# Chain Drive
+# Harmonic Bop
 Another result of an attractor experiment on Lissajous Curves.<br>  
 Please view a live demo at : https://codepen.io/niitettehtsuru/pen/VweBZpe<br>
 
